@@ -19,3 +19,8 @@ while num <= 10:
 
     # Increment the counter
     num += 1
+OUTPUT:
+2
+4
+6
+Encountered 8. Stopping the loop.
