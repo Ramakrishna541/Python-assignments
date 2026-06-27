@@ -68,4 +68,5 @@ for amount in sales:
     total += amount
 
 print("Total sales amount:", total)
+OUTPUT:
 Total sales amount: 2400
